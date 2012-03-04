@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NetworkToolsActivity!</string>
+    <string name="app_name">NetworkTools</string>
+    <string name="ip">IP address or domain name</string>
+    <string name="ping">Ping</string>
+    <string name="pingS">Ping (Stop)</string>
+    <string name="down">Down just for me ?</string>
+    <string name="whois">Whois</string>
+    <string name="output">Welcome to my Network Utility, this textbox will contain the answer to your requests.</string>
+
+</resources>
